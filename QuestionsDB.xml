@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questionsDB>
+	<questions>
+		<questionItem complexityLevel="1">
+			<description>Кто сыграл решающую роль в процессе превращения полена в Буратино?</description>		
+			<answerVariants>
+				<answerItem сorrect="false">
+				    <text>Карабас Барабас</text>
+				</answerItem>
+				<answerItem сorrect="true"><text>Папа Карло</text></answerItem>
+				<answerItem сorrect="false"><text>Мальвина</text></answerItem>
+				<answerItem сorrect="false"><text>Дуремар</text></answerItem>
+			</answerVariants>
+		</questionItem>
+		<questionItem complexityLevel="1">
+			<description>Кто провалился в болото в стихотворении К.И.Чуковского "У меня зазвонил телефон"</description>		
+			<answerVariants>
+				<answerItem сorrect="true"><text>Бегемот</text></answerItem>
+				<answerItem сorrect="false"><text>Айболит</text></answerItem>
+				<answerItem сorrect="false"><text>Слон</text></answerItem>
+				<answerItem сorrect="false"><text>Крокодил</text></answerItem>
+			</answerVariants>
+		</questionItem>
+		<questionItem complexityLevel="1">
+			<description>Ношение какого холодного оружия считалось в средние века отличительной чертой рыцаря?</description>		
+			<answerVariants>
+				<answerItem сorrect="false"><text>Ятаган</text></answerItem>
+				<answerItem сorrect="true"><text>Меч</text></answerItem>
+				<answerItem сorrect="false"><text>Шпага</text></answerItem>
+				<answerItem сorrect="false"><text>Нунчак</text></answerItem>
+			</answerVariants>
+		</questionItem>
+		<questionItem complexityLevel="1">
+			<description>Какой сад сумел приобрести купец лопахин в одноименной пьесе А.П.Чехова?</description>		
+			<answerVariants>
+				<answerItem сorrect="true"><text>Вишнёвый</text></answerItem>
+				<answerItem сorrect="false"><text>Грушовый</text></answerItem>
+				<answerItem сorrect="false"><text>Сливовый</text></answerItem>
+				<answerItem сorrect="false"><text>Яблоневый</text></answerItem>
+			</answerVariants>
+		</questionItem>
+		<questionItem complexityLevel="1">
+			<description>Какую историю любви ее автор назвал самой печальной повестью на свете?</description>		
+			<answerVariants>
+				<answerItem сorrect="false"><text>Орфей и Эвридика</text></answerItem>
+				<answerItem сorrect="false"><text>Руслан и Людмила</text></answerItem>
+				<answerItem сorrect="true"><text>Ромео и Джульетта</text></answerItem>
+				<answerItem сorrect="false"><text>Валентин и Валентина</text></answerItem>
+			</answerVariants>
+		</questionItem>
+		<questionItem complexityLevel="2">
+			<description>Как обращаются к незамужней женщине в Великобритании?</description>		
+			<answerVariants>
+				<answerItem сorrect="false"><text>Миссис</text></answerItem>
+				<answerItem сorrect="true"><text>Мис</text></answerItem>
+				<answerItem сorrect="false"><text>Мадам</text></answerItem>
+				<answerItem сorrect="false"><text>Мадемуазель</text></answerItem>
+			</answerVariants>
+		</questionItem>
+		<questionItem complexityLevel="2">
+			<description>Как называется способность электро-магнитных волн огибать препятствия?</description>		
+			<answerVariants>
+				<answerItem сorrect="false"><text>Дисперсия</text></answerItem>
+				<answerItem сorrect="false"><text>Интерференция</text></answerItem>
+				<answerItem сorrect="true"><text>Дифракция</text></answerItem>
+				<answerItem сorrect="false"><text>Когерентность</text></answerItem>
+			</answerVariants>
+		</questionItem>
+		<questionItem complexityLevel="2">
+			<description>В какой из этих стран принято левосторонне движение?</description>		
+			<answerVariants>
+				<answerItem сorrect="false"><text>Иран</text></answerItem>
+				<answerItem сorrect="false"><text>Австрия</text></answerItem>
+				<answerItem сorrect="false"><text>Франция</text></answerItem>
+				<answerItem сorrect="true"><text>Австралия</text></answerItem>
+			</answerVariants>
+		</questionItem>
+		<questionItem complexityLevel="2">
+			<description>Какая из этих премий, впоследствии была переименована в Государственную премию СССР?</description>		
+			<answerVariants>
+				<answerItem сorrect="false"><text>Ленинская</text></answerItem>
+				<answerItem сorrect="false"><text>Ломоносовская</text></answerItem>
+				<answerItem сorrect="false"><text>Нобелевская</text></answerItem>
+				<answerItem сorrect="true"><text>Сталинская</text></answerItem>
+			</answerVariants>
+		</questionItem>
+		<questionItem complexityLevel="2">
+			<description>В какой стране возникла борьба САМБО?</description>		
+			<answerVariants>
+				<answerItem сorrect="false"><text>США</text></answerItem>
+				<answerItem сorrect="true"><text>СССР</text></answerItem>
+				<answerItem сorrect="false"><text>Китай</text></answerItem>
+			</answerVariants>
+		</questionItem>
+		<questionItem complexityLevel="3">
+			<description>С помощью каких фигур в шахматах нельзя поставить мат?</description>		
+			<answerVariants>
+				<answerItem сorrect="false"><text>Два слона</text></answerItem>
+				<answerItem сorrect="true"><text>Два коня</text></answerItem>
+				<answerItem сorrect="false"><text>Конь и слон</text></answerItem>
+				<answerItem сorrect="false"><text>Две ладьи</text></answerItem>
+			</answerVariants>
+		</questionItem>
+		<questionItem complexityLevel="3">
+			<description>Что означает "тянуть канитель" в буквальном, а не в переносном смысле слова?</description>		
+			<answerVariants>
+				<answerItem сorrect="true"><text>Тянуть нити</text></answerItem>
+				<answerItem сorrect="false"><text>Тянуть жилы</text></answerItem>
+				<answerItem сorrect="false"><text>Тянуть паутину</text></answerItem>
+				<answerItem сorrect="false"><text>Тянуть резину</text></answerItem>
+			</answerVariants>
+		</questionItem>
+		<questionItem complexityLevel="3">
+			<description>Что в переводе обозначает слово "эскимос"?</description>		
+			<answerVariants>
+				<answerItem сorrect="false"><text>Маленький человек</text></answerItem>
+				<answerItem сorrect="false"><text>Ездун</text></answerItem>
+				<answerItem сorrect="true"><text>Сыроед</text></answerItem>
+				<answerItem сorrect="false"><text>Холодник</text></answerItem>
+			</answerVariants>
+		</questionItem>
+		<questionItem complexityLevel="3">
+			<description>Кто из этих асов авиации единственный, совершивший 4 воздушных тарана?</description>		
+			<answerVariants>
+				<answerItem сorrect="false"><text>Хлобыстов</text></answerItem>
+				<answerItem сorrect="false"><text>Нестеров</text></answerItem>
+				<answerItem сorrect="true"><text>Ковзан</text></answerItem>
+				<answerItem сorrect="false"><text>Зеленко</text></answerItem>
+			</answerVariants>
+		</questionItem>
+		<questionItem complexityLevel="3">
+			<description>Как называется газовая оболочка ядра кометы, образующая с ним голову кометы?</description>		
+			<answerVariants>
+				<answerItem сorrect="false"><text>Квазар</text></answerItem>
+				<answerItem сorrect="false"><text>Корона</text></answerItem>
+				<answerItem сorrect="false"><text>Апекс</text></answerItem>
+				<answerItem сorrect="true"><text>Кома</text></answerItem>
+			</answerVariants>
+		</questionItem>
+	</questions>
+</questionsDB>
